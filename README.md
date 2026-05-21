@@ -364,22 +364,6 @@ ai-coding-agent/
 
 ---
 
-## Contribuir
-
-1. Haz un **fork** del repositorio
-2. Crea una rama: `git checkout -b feature/mi-tool`
-3. Implementa tu `AgentTool` con sus tests
-4. Haz commit: `git commit -m "feat: add mi-tool"`
-5. Abre un **Pull Request**
-
-### Ideas para contribuir
-
-- [ ] `SearchCodeTool` — grep semántico sobre el codebase
-- [ ] `DocGeneratorTool` — generar Javadoc automático
-- [ ] `TestGeneratorTool` — generar tests unitarios con JUnit
-- [ ] Soporte OpenAI en `OpenAIProvider`
-- [ ] Soporte Ollama para modelos locales (Llama, Qwen, DeepSeek)
-- [ ] JLine3 con historial de comandos y autocompletado
 
 ---
 
