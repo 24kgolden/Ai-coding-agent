@@ -364,9 +364,6 @@ ai-coding-agent/
 
 ---
 
-
----
-
 ## Requisitos del sistema
 
 ```bash
